@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://cbrl.iitkgp.ac.in/sitemap.xml
+Sitemap: https://cbrl-website-final.vercel.app/sitemap.xml
 
 # Disallow crawling of Next.js internal files
 Disallow: /_next/
