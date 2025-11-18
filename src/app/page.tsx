@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import type { Metadata } from 'next';
 import dynamic from 'next/dynamic';
+<meta name="google-site-verification" content="ZAQCHvft0fIPa5fC7tFYCTW1joLvtTFnfjDlqSBNdkQ" />
 
 // Dynamically import the JsonLd component to avoid server-side rendering issues
 const JsonLd = dynamic(() => import('../components/JsonLd'), { ssr: false });
@@ -502,8 +503,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      <meta name="google-site-verification" content="ZAQCHvft0fIPa5fC7tFYCTW1joLvtTFnfjDlqSBNdkQ" />
     </div>
   )
 }
