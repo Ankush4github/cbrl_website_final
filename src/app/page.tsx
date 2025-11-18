@@ -502,6 +502,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <meta name="google-site-verification" content="ZAQCHvft0fIPa5fC7tFYCTW1joLvtTFnfjDlqSBNdkQ" />
     </div>
   )
 }
